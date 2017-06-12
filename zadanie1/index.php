@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * Created by PhpStorm.
  * User: HP
@@ -27,7 +27,7 @@ function pesel($pesel) {
 
 }
 
-pesel("93040102159");
+pesel("93040111111");
 
 
 
